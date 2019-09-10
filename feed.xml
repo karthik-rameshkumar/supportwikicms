@@ -3,10 +3,30 @@
     <title>support.wiki</title>
     <link href="https://webmasteradmin.github.io/supportwikicms/feed.xml" rel="self" />
     <link href="https://webmasteradmin.github.io/supportwikicms" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2019-09-11T02:46:47+05:30</updated>
     <author>
         <name>karthikrameskum</name>
     </author>
     <id>https://webmasteradmin.github.io/supportwikicms</id>
 
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>karthikrameskum</name>
+        </author>
+        <link href="https://webmasteradmin.github.io/supportwikicms/hello-world.html"/>
+        <id>https://webmasteradmin.github.io/supportwikicms/hello-world.html</id>
+
+        <updated>2019-09-11T02:46:37+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Test Post!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Test Post!
+            ]]>
+        </content>
+    </entry>
 </feed>
